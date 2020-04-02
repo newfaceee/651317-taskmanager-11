@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
-* Студент: [Edem Reshidov](https://up.htmlacademy.ru/ecmascript/11/user/651317).
-* Наставник: `Неизвестно`.
+- Студент: [Edem Reshidov](https://up.htmlacademy.ru/ecmascript/11/user/651317).
+- Наставник: [Михаил Семиколенов](https://htmlacademy.ru/profile/id19706).
 
 ---
 
