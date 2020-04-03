@@ -1,5 +1,5 @@
 export const createFilterTemplate = () => {
-    return `<section class="main__filter filter container">
+  return `<section class="main__filter filter container">
         <input
           type="radio"
           id="filter__all"
